@@ -33,7 +33,7 @@ To get a local copy up and running, follow these steps:
 
 ## Usage
 
-Once the development server is running, you can view the website by opening [http://localhost:3000](http://localhost:3000) in your web browser. You will be able to navigate through the different sections, view product details, and manage your shopping cart.
+Once the development server is running, you can view the website by opening [http://localhost:5173](http://localhost:5173) in your web browser. You will be able to navigate through the different sections, view product details, and manage your shopping cart.
 
 
 ## Contributing
