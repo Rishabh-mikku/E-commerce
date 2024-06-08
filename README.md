@@ -15,10 +15,10 @@ Installation
 To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
-    git clone https://github.com/your-username/e-commerce-website.git
+    git clone https://github.com/Rishabh-mikku/E-commerce.git
     
 2. Navigate to the project directory:
-    cd e-commerce
+    cd E-commerce
    
 3. Install dependencies:
     npm install
